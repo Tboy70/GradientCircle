@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="gradientColorOne" format="reference" />
+    <attr name="gradientColorTwo" format="reference" />
+
+    <declare-styleable name="GlowingRingKt">
+        <attr name="glowingCircleRadius" format="float" />
+        <attr name="gradientType" format="integer" />
+    </declare-styleable>
+
+</resources>
